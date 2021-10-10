@@ -1,4 +1,5 @@
 #ifndef __MLD__
+#define __MLD__
 
 #include <assert.h>
 #include <string.h>
