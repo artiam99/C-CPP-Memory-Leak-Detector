@@ -22,7 +22,7 @@ For testing modify app.c file. Create some memory leaks. Do compile as mentioned
 
 ## High Level Design
 
-![hld](https://user-images.githubusercontent.com/47227715/138093205-f614ac69-3056-4013-a48a-adf195bf3dfe.png)
+![hld](https://user-images.githubusercontent.com/47227715/138119173-d18d1baf-ca91-44f9-a1fb-bf096e4aa106.png)
 
 
 ## Testing MLD Library
